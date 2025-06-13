@@ -17,7 +17,7 @@ Requirements
 
 Installation
 
-git clone https://github.com/vamshikumar26/monitoring_uptime-downtime_of_restaurant.git
+git clone https://github.com/vamshikumar26/vamshi_13_06_2025.git
 
 cd monitoring_uptime-downtime_of_restaurant
 
