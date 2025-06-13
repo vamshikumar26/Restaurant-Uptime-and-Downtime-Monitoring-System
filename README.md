@@ -24,3 +24,8 @@ cd monitoring_uptime-downtime_of_restaurant
 pip install -r requirements.txt
 
 uvicorn main:app --reload
+
+Ideas for Improvement
+- Add JWT auth to secure endpoints
+- UI to upload CSV and monitor report generation live
+
