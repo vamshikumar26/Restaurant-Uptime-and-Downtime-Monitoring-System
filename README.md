@@ -29,3 +29,7 @@ Ideas for Improvement
 - Add JWT auth to secure endpoints
 - UI to upload CSV and monitor report generation live
 
+Sample Output
+
+A sample report CSV has been uploaded [here on Google Drive](https://drive.google.com/file/d/1_VG8MkasFc3qsCAkyx11qQwF1YOyq2eK/view?usp=drive_link)
+
