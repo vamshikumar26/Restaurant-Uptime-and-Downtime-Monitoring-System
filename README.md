@@ -31,5 +31,5 @@ Ideas for Improvement
 
 Sample Output
 
-A sample report CSV has been uploaded [here on Google Drive]([https://drive.google.com/file/d/1_VG8MkasFc3qsCAkyx11qQwF1YOyq2eK/view?usp=drive_link](https://drive.google.com/file/d/1_VG8MkasFc3qsCAkyx11qQwF1YOyq2eK/view?usp=sharing))
+A sample report CSV has been uploaded [here on Google Drive](https://drive.google.com/file/d/1_VG8MkasFc3qsCAkyx11qQwF1YOyq2eK/view?usp=drive_link](https://drive.google.com/file/d/1_VG8MkasFc3qsCAkyx11qQwF1YOyq2eK/view?usp=sharing)
 
