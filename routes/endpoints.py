@@ -12,7 +12,7 @@ from concurrent.futures import ThreadPoolExecutor
 router = APIRouter()
 
 #creating file directory for storing the generated reports
-REPORT_DIR = 'store the generated reports'
+REPORT_DIR = 'reports'
 os.makedirs(REPORT_DIR, exist_ok=True)
 
 
@@ -98,9 +98,9 @@ def interpolate_and_calculate(logs, menuhours_doc, timezone_str, window_start_lo
     return round(uptime.total_seconds() / 60, 2), round(downtime.total_seconds() / 60, 2)
 
 #Loading csv files
-menu_hours_csv = pd.read_csv(r'C:\Users\potta\Desktop\projects\Restaurant Uptime and Downtime monitoring sytem\data\menu_hours.csv')
-store_status_csv = pd.read_csv(r'C:\Users\potta\Desktop\projects\Restaurant Uptime and Downtime monitoring sytem\data\store_status.csv')
-timezone_csv = pd.read_csv(r'C:\Users\potta\Desktop\projects\Restaurant Uptime and Downtime monitoring sytem\data\timezones.csv')
+menu_hours_csv = pd.read_csv(r'#path to your input menu_hours csv')
+store_status_csv = pd.read_csv(r'#path to your input store_status.csv')
+timezone_csv = pd.read_csv(r'#path to your input timezone.csv')
 
 #creating collections for csv files
 menu_hours_collection = db["menu_hours_logs"]
