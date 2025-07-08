@@ -37,9 +37,6 @@ restaurant-uptime-monitor/
 
 ├── README.md # Project documentation
 
-yaml
-Copy
-Edit
 
 ## Requirements
 
