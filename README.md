@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ## How to Run
 
 Clone the Repository
-git clone https://github.com/yourusername/restaurant-uptime-tracker.git
+git clone https://github.com/vamshikumar26/Restaurant-Uptime-and-Downtime-Monitoring-System.git
 cd restaurant-uptime-tracker
 
 ## Run the FastAPI Server 
